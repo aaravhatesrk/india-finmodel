@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: indiafinmodel
+    runtime: python
+    plan: starter
+    buildCommand: "bash -lc \"cd frontend && npm ci && npm run build && cd .. && pip install -r requirements.txt\""
+    startCommand: "gunicorn app:app --bind 0.0.0.0:$PORT --workers 4"
+    envVars:
+      - key: FLASK_DEBUG
+        value: "0"
+      - key: SCRAPER_DELAY_SECONDS
+        value: "2"
+      - key: SCRAPER_TIMEOUT_SECONDS
+        value: "10"
+      - key: CACHE_TTL_SECONDS
+        value: "21600"
