@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/cache/*.json
+.env
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+.DS_Store

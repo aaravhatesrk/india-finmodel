@@ -1,0 +1,502 @@
+Section,Metric,Period,Value
+Profit & Loss,Sales,Mar 2015,94648.0
+Profit & Loss,Sales,Mar 2016,108646.0
+Profit & Loss,Sales,Mar 2017,117966.0
+Profit & Loss,Sales,Mar 2018,123104.0
+Profit & Loss,Sales,Mar 2019,146463.0
+Profit & Loss,Sales,Mar 2020,156949.0
+Profit & Loss,Sales,Mar 2021,164177.0
+Profit & Loss,Sales,Mar 2022,191754.0
+Profit & Loss,Sales,Mar 2023,225458.0
+Profit & Loss,Sales,Mar 2024,240893.0
+Profit & Loss,Sales,Mar 2025,255324.0
+Profit & Loss,Sales,Mar 2026,267021.0
+Profit & Loss,Expenses,Mar 2015,70167.0
+Profit & Loss,Expenses,Mar 2016,77969.0
+Profit & Loss,Expenses,Mar 2017,85655.0
+Profit & Loss,Expenses,Mar 2018,90588.0
+Profit & Loss,Expenses,Mar 2019,106957.0
+Profit & Loss,Expenses,Mar 2020,114840.0
+Profit & Loss,Expenses,Mar 2021,117631.0
+Profit & Loss,Expenses,Mar 2022,138697.0
+Profit & Loss,Expenses,Mar 2023,166199.0
+Profit & Loss,Expenses,Mar 2024,176597.0
+Profit & Loss,Expenses,Mar 2025,187917.0
+Profit & Loss,Expenses,Mar 2026,194623.0
+Profit & Loss,Operating Profit,Mar 2015,24482.0
+Profit & Loss,Operating Profit,Mar 2016,30677.0
+Profit & Loss,Operating Profit,Mar 2017,32311.0
+Profit & Loss,Operating Profit,Mar 2018,32516.0
+Profit & Loss,Operating Profit,Mar 2019,39506.0
+Profit & Loss,Operating Profit,Mar 2020,42109.0
+Profit & Loss,Operating Profit,Mar 2021,46546.0
+Profit & Loss,Operating Profit,Mar 2022,53057.0
+Profit & Loss,Operating Profit,Mar 2023,59259.0
+Profit & Loss,Operating Profit,Mar 2024,64296.0
+Profit & Loss,Operating Profit,Mar 2025,67407.0
+Profit & Loss,Operating Profit,Mar 2026,72398.0
+Profit & Loss,OPM %,Mar 2015,26%
+Profit & Loss,OPM %,Mar 2016,28%
+Profit & Loss,OPM %,Mar 2017,27%
+Profit & Loss,OPM %,Mar 2018,26%
+Profit & Loss,OPM %,Mar 2019,27%
+Profit & Loss,OPM %,Mar 2020,27%
+Profit & Loss,OPM %,Mar 2021,28%
+Profit & Loss,OPM %,Mar 2022,28%
+Profit & Loss,OPM %,Mar 2023,26%
+Profit & Loss,OPM %,Mar 2024,27%
+Profit & Loss,OPM %,Mar 2025,26%
+Profit & Loss,OPM %,Mar 2026,27%
+Profit & Loss,Other Income,Mar 2015,3720.0
+Profit & Loss,Other Income,Mar 2016,3084.0
+Profit & Loss,Other Income,Mar 2017,4221.0
+Profit & Loss,Other Income,Mar 2018,3642.0
+Profit & Loss,Other Income,Mar 2019,4311.0
+Profit & Loss,Other Income,Mar 2020,4592.0
+Profit & Loss,Other Income,Mar 2021,1916.0
+Profit & Loss,Other Income,Mar 2022,4018.0
+Profit & Loss,Other Income,Mar 2023,3449.0
+Profit & Loss,Other Income,Mar 2024,3464.0
+Profit & Loss,Other Income,Mar 2025,3962.0
+Profit & Loss,Other Income,Mar 2026,-124.0
+Profit & Loss,Interest,Mar 2015,104.0
+Profit & Loss,Interest,Mar 2016,33.0
+Profit & Loss,Interest,Mar 2017,32.0
+Profit & Loss,Interest,Mar 2018,52.0
+Profit & Loss,Interest,Mar 2019,198.0
+Profit & Loss,Interest,Mar 2020,924.0
+Profit & Loss,Interest,Mar 2021,637.0
+Profit & Loss,Interest,Mar 2022,784.0
+Profit & Loss,Interest,Mar 2023,779.0
+Profit & Loss,Interest,Mar 2024,778.0
+Profit & Loss,Interest,Mar 2025,796.0
+Profit & Loss,Interest,Mar 2026,1227.0
+Profit & Loss,Depreciation,Mar 2015,1799.0
+Profit & Loss,Depreciation,Mar 2016,1888.0
+Profit & Loss,Depreciation,Mar 2017,1987.0
+Profit & Loss,Depreciation,Mar 2018,2014.0
+Profit & Loss,Depreciation,Mar 2019,2056.0
+Profit & Loss,Depreciation,Mar 2020,3529.0
+Profit & Loss,Depreciation,Mar 2021,4065.0
+Profit & Loss,Depreciation,Mar 2022,4604.0
+Profit & Loss,Depreciation,Mar 2023,5022.0
+Profit & Loss,Depreciation,Mar 2024,4985.0
+Profit & Loss,Depreciation,Mar 2025,5242.0
+Profit & Loss,Depreciation,Mar 2026,5560.0
+Profit & Loss,Profit before tax,Mar 2015,26298.0
+Profit & Loss,Profit before tax,Mar 2016,31840.0
+Profit & Loss,Profit before tax,Mar 2017,34513.0
+Profit & Loss,Profit before tax,Mar 2018,34092.0
+Profit & Loss,Profit before tax,Mar 2019,41563.0
+Profit & Loss,Profit before tax,Mar 2020,42248.0
+Profit & Loss,Profit before tax,Mar 2021,43760.0
+Profit & Loss,Profit before tax,Mar 2022,51687.0
+Profit & Loss,Profit before tax,Mar 2023,56907.0
+Profit & Loss,Profit before tax,Mar 2024,61997.0
+Profit & Loss,Profit before tax,Mar 2025,65331.0
+Profit & Loss,Profit before tax,Mar 2026,65487.0
+Profit & Loss,Tax %,Mar 2015,24%
+Profit & Loss,Tax %,Mar 2016,24%
+Profit & Loss,Tax %,Mar 2017,24%
+Profit & Loss,Tax %,Mar 2018,24%
+Profit & Loss,Tax %,Mar 2019,24%
+Profit & Loss,Tax %,Mar 2020,23%
+Profit & Loss,Tax %,Mar 2021,26%
+Profit & Loss,Tax %,Mar 2022,26%
+Profit & Loss,Tax %,Mar 2023,26%
+Profit & Loss,Tax %,Mar 2024,26%
+Profit & Loss,Tax %,Mar 2025,25%
+Profit & Loss,Tax %,Mar 2026,24%
+Profit & Loss,Net Profit,Mar 2015,20060.0
+Profit & Loss,Net Profit,Mar 2016,24338.0
+Profit & Loss,Net Profit,Mar 2017,26357.0
+Profit & Loss,Net Profit,Mar 2018,25880.0
+Profit & Loss,Net Profit,Mar 2019,31562.0
+Profit & Loss,Net Profit,Mar 2020,32447.0
+Profit & Loss,Net Profit,Mar 2021,32562.0
+Profit & Loss,Net Profit,Mar 2022,38449.0
+Profit & Loss,Net Profit,Mar 2023,42303.0
+Profit & Loss,Net Profit,Mar 2024,46099.0
+Profit & Loss,Net Profit,Mar 2025,48797.0
+Profit & Loss,Net Profit,Mar 2026,49454.0
+Profit & Loss,EPS in Rs,Mar 2015,50.68
+Profit & Loss,EPS in Rs,Mar 2016,61.58
+Profit & Loss,EPS in Rs,Mar 2017,66.71
+Profit & Loss,EPS in Rs,Mar 2018,67.46
+Profit & Loss,EPS in Rs,Mar 2019,83.87
+Profit & Loss,EPS in Rs,Mar 2020,86.19
+Profit & Loss,EPS in Rs,Mar 2021,87.67
+Profit & Loss,EPS in Rs,Mar 2022,104.75
+Profit & Loss,EPS in Rs,Mar 2023,115.19
+Profit & Loss,EPS in Rs,Mar 2024,126.88
+Profit & Loss,EPS in Rs,Mar 2025,134.2
+Profit & Loss,EPS in Rs,Mar 2026,136.01
+Profit & Loss,Dividend Payout %,Mar 2015,78%
+Profit & Loss,Dividend Payout %,Mar 2016,35%
+Profit & Loss,Dividend Payout %,Mar 2017,35%
+Profit & Loss,Dividend Payout %,Mar 2018,37%
+Profit & Loss,Dividend Payout %,Mar 2019,36%
+Profit & Loss,Dividend Payout %,Mar 2020,85%
+Profit & Loss,Dividend Payout %,Mar 2021,43%
+Profit & Loss,Dividend Payout %,Mar 2022,41%
+Profit & Loss,Dividend Payout %,Mar 2023,100%
+Profit & Loss,Dividend Payout %,Mar 2024,58%
+Profit & Loss,Dividend Payout %,Mar 2025,94%
+Profit & Loss,Dividend Payout %,Mar 2026,81%
+Balance Sheet,Equity Capital,Mar 2015,196.0
+Balance Sheet,Equity Capital,Mar 2016,197.0
+Balance Sheet,Equity Capital,Mar 2017,197.0
+Balance Sheet,Equity Capital,Mar 2018,191.0
+Balance Sheet,Equity Capital,Mar 2019,375.0
+Balance Sheet,Equity Capital,Mar 2020,375.0
+Balance Sheet,Equity Capital,Mar 2021,370.0
+Balance Sheet,Equity Capital,Mar 2022,366.0
+Balance Sheet,Equity Capital,Mar 2023,366.0
+Balance Sheet,Equity Capital,Mar 2024,362.0
+Balance Sheet,Equity Capital,Mar 2025,362.0
+Balance Sheet,Equity Capital,Mar 2026,362.0
+Balance Sheet,Reserves,Mar 2015,50439.0
+Balance Sheet,Reserves,Mar 2016,70875.0
+Balance Sheet,Reserves,Mar 2017,86017.0
+Balance Sheet,Reserves,Mar 2018,84937.0
+Balance Sheet,Reserves,Mar 2019,89071.0
+Balance Sheet,Reserves,Mar 2020,83751.0
+Balance Sheet,Reserves,Mar 2021,86063.0
+Balance Sheet,Reserves,Mar 2022,88773.0
+Balance Sheet,Reserves,Mar 2023,90058.0
+Balance Sheet,Reserves,Mar 2024,90127.0
+Balance Sheet,Reserves,Mar 2025,94394.0
+Balance Sheet,Reserves,Mar 2026,106878.0
+Balance Sheet,Borrowings,Mar 2015,358.0
+Balance Sheet,Borrowings,Mar 2016,245.0
+Balance Sheet,Borrowings,Mar 2017,289.0
+Balance Sheet,Borrowings,Mar 2018,247.0
+Balance Sheet,Borrowings,Mar 2019,62.0
+Balance Sheet,Borrowings,Mar 2020,8174.0
+Balance Sheet,Borrowings,Mar 2021,7795.0
+Balance Sheet,Borrowings,Mar 2022,7818.0
+Balance Sheet,Borrowings,Mar 2023,7688.0
+Balance Sheet,Borrowings,Mar 2024,8021.0
+Balance Sheet,Borrowings,Mar 2025,9392.0
+Balance Sheet,Borrowings,Mar 2026,11283.0
+Balance Sheet,Other Liabilities,Mar 2015,22325.0
+Balance Sheet,Other Liabilities,Mar 2016,16974.0
+Balance Sheet,Other Liabilities,Mar 2017,15830.0
+Balance Sheet,Other Liabilities,Mar 2018,19751.0
+Balance Sheet,Other Liabilities,Mar 2019,24393.0
+Balance Sheet,Other Liabilities,Mar 2020,27827.0
+Balance Sheet,Other Liabilities,Mar 2021,35764.0
+Balance Sheet,Other Liabilities,Mar 2022,43967.0
+Balance Sheet,Other Liabilities,Mar 2023,44747.0
+Balance Sheet,Other Liabilities,Mar 2024,46962.0
+Balance Sheet,Other Liabilities,Mar 2025,54501.0
+Balance Sheet,Other Liabilities,Mar 2026,62644.0
+Balance Sheet,Total Liabilities,Mar 2015,73318.0
+Balance Sheet,Total Liabilities,Mar 2016,88291.0
+Balance Sheet,Total Liabilities,Mar 2017,102333.0
+Balance Sheet,Total Liabilities,Mar 2018,105126.0
+Balance Sheet,Total Liabilities,Mar 2019,113901.0
+Balance Sheet,Total Liabilities,Mar 2020,120127.0
+Balance Sheet,Total Liabilities,Mar 2021,129992.0
+Balance Sheet,Total Liabilities,Mar 2022,140924.0
+Balance Sheet,Total Liabilities,Mar 2023,142859.0
+Balance Sheet,Total Liabilities,Mar 2024,145472.0
+Balance Sheet,Total Liabilities,Mar 2025,158649.0
+Balance Sheet,Total Liabilities,Mar 2026,181167.0
+Balance Sheet,Fixed Assets,Mar 2015,11638.0
+Balance Sheet,Fixed Assets,Mar 2016,11774.0
+Balance Sheet,Fixed Assets,Mar 2017,11701.0
+Balance Sheet,Fixed Assets,Mar 2018,11973.0
+Balance Sheet,Fixed Assets,Mar 2019,12290.0
+Balance Sheet,Fixed Assets,Mar 2020,20928.0
+Balance Sheet,Fixed Assets,Mar 2021,21021.0
+Balance Sheet,Fixed Assets,Mar 2022,21298.0
+Balance Sheet,Fixed Assets,Mar 2023,20515.0
+Balance Sheet,Fixed Assets,Mar 2024,19604.0
+Balance Sheet,Fixed Assets,Mar 2025,23053.0
+Balance Sheet,Fixed Assets,Mar 2026,31343.0
+Balance Sheet,CWIP,Mar 2015,2766.0
+Balance Sheet,CWIP,Mar 2016,1670.0
+Balance Sheet,CWIP,Mar 2017,1541.0
+Balance Sheet,CWIP,Mar 2018,1278.0
+Balance Sheet,CWIP,Mar 2019,963.0
+Balance Sheet,CWIP,Mar 2020,906.0
+Balance Sheet,CWIP,Mar 2021,926.0
+Balance Sheet,CWIP,Mar 2022,1205.0
+Balance Sheet,CWIP,Mar 2023,1234.0
+Balance Sheet,CWIP,Mar 2024,1564.0
+Balance Sheet,CWIP,Mar 2025,1546.0
+Balance Sheet,CWIP,Mar 2026,2665.0
+Balance Sheet,Investments,Mar 2015,1662.0
+Balance Sheet,Investments,Mar 2016,22822.0
+Balance Sheet,Investments,Mar 2017,41980.0
+Balance Sheet,Investments,Mar 2018,36008.0
+Balance Sheet,Investments,Mar 2019,29330.0
+Balance Sheet,Investments,Mar 2020,26356.0
+Balance Sheet,Investments,Mar 2021,29373.0
+Balance Sheet,Investments,Mar 2022,30485.0
+Balance Sheet,Investments,Mar 2023,37163.0
+Balance Sheet,Investments,Mar 2024,31762.0
+Balance Sheet,Investments,Mar 2025,30964.0
+Balance Sheet,Investments,Mar 2026,33988.0
+Balance Sheet,Other Assets,Mar 2015,57252.0
+Balance Sheet,Other Assets,Mar 2016,52025.0
+Balance Sheet,Other Assets,Mar 2017,47111.0
+Balance Sheet,Other Assets,Mar 2018,55867.0
+Balance Sheet,Other Assets,Mar 2019,71318.0
+Balance Sheet,Other Assets,Mar 2020,71937.0
+Balance Sheet,Other Assets,Mar 2021,78672.0
+Balance Sheet,Other Assets,Mar 2022,87936.0
+Balance Sheet,Other Assets,Mar 2023,83947.0
+Balance Sheet,Other Assets,Mar 2024,92542.0
+Balance Sheet,Other Assets,Mar 2025,103086.0
+Balance Sheet,Other Assets,Mar 2026,113171.0
+Balance Sheet,Total Assets,Mar 2015,73318.0
+Balance Sheet,Total Assets,Mar 2016,88291.0
+Balance Sheet,Total Assets,Mar 2017,102333.0
+Balance Sheet,Total Assets,Mar 2018,105126.0
+Balance Sheet,Total Assets,Mar 2019,113901.0
+Balance Sheet,Total Assets,Mar 2020,120127.0
+Balance Sheet,Total Assets,Mar 2021,129992.0
+Balance Sheet,Total Assets,Mar 2022,140924.0
+Balance Sheet,Total Assets,Mar 2023,142859.0
+Balance Sheet,Total Assets,Mar 2024,145472.0
+Balance Sheet,Total Assets,Mar 2025,158649.0
+Balance Sheet,Total Assets,Mar 2026,181167.0
+Cash Flow,Cash from Operating Activity,Mar 2015,19369.0
+Cash Flow,Cash from Operating Activity,Mar 2016,19109.0
+Cash Flow,Cash from Operating Activity,Mar 2017,25223.0
+Cash Flow,Cash from Operating Activity,Mar 2018,25067.0
+Cash Flow,Cash from Operating Activity,Mar 2019,28593.0
+Cash Flow,Cash from Operating Activity,Mar 2020,32369.0
+Cash Flow,Cash from Operating Activity,Mar 2021,38802.0
+Cash Flow,Cash from Operating Activity,Mar 2022,39949.0
+Cash Flow,Cash from Operating Activity,Mar 2023,41965.0
+Cash Flow,Cash from Operating Activity,Mar 2024,44338.0
+Cash Flow,Cash from Operating Activity,Mar 2025,48908.0
+Cash Flow,Cash from Operating Activity,Mar 2026,52094.0
+Cash Flow,Cash from Investing Activity,Mar 2015,-1807.0
+Cash Flow,Cash from Investing Activity,Mar 2016,-5010.0
+Cash Flow,Cash from Investing Activity,Mar 2017,-16895.0
+Cash Flow,Cash from Investing Activity,Mar 2018,3104.0
+Cash Flow,Cash from Investing Activity,Mar 2019,1645.0
+Cash Flow,Cash from Investing Activity,Mar 2020,8968.0
+Cash Flow,Cash from Investing Activity,Mar 2021,-7956.0
+Cash Flow,Cash from Investing Activity,Mar 2022,-738.0
+Cash Flow,Cash from Investing Activity,Mar 2023,548.0
+Cash Flow,Cash from Investing Activity,Mar 2024,6091.0
+Cash Flow,Cash from Investing Activity,Mar 2025,-2144.0
+Cash Flow,Cash from Investing Activity,Mar 2026,-11886.0
+Cash Flow,Cash from Financing Activity,Mar 2015,-17168.0
+Cash Flow,Cash from Financing Activity,Mar 2016,-9666.0
+Cash Flow,Cash from Financing Activity,Mar 2017,-11026.0
+Cash Flow,Cash from Financing Activity,Mar 2018,-26885.0
+Cash Flow,Cash from Financing Activity,Mar 2019,-27897.0
+Cash Flow,Cash from Financing Activity,Mar 2020,-39915.0
+Cash Flow,Cash from Financing Activity,Mar 2021,-32634.0
+Cash Flow,Cash from Financing Activity,Mar 2022,-33581.0
+Cash Flow,Cash from Financing Activity,Mar 2023,-47878.0
+Cash Flow,Cash from Financing Activity,Mar 2024,-48536.0
+Cash Flow,Cash from Financing Activity,Mar 2025,-47438.0
+Cash Flow,Cash from Financing Activity,Mar 2026,-42133.0
+Cash Flow,Net Cash Flow,Mar 2015,394.0
+Cash Flow,Net Cash Flow,Mar 2016,4433.0
+Cash Flow,Net Cash Flow,Mar 2017,-2698.0
+Cash Flow,Net Cash Flow,Mar 2018,1286.0
+Cash Flow,Net Cash Flow,Mar 2019,2341.0
+Cash Flow,Net Cash Flow,Mar 2020,1422.0
+Cash Flow,Net Cash Flow,Mar 2021,-1788.0
+Cash Flow,Net Cash Flow,Mar 2022,5630.0
+Cash Flow,Net Cash Flow,Mar 2023,-5365.0
+Cash Flow,Net Cash Flow,Mar 2024,1893.0
+Cash Flow,Net Cash Flow,Mar 2025,-674.0
+Cash Flow,Net Cash Flow,Mar 2026,-1925.0
+Cash Flow,Free Cash Flow,Mar 2015,16426.0
+Cash Flow,Free Cash Flow,Mar 2016,17144.0
+Cash Flow,Free Cash Flow,Mar 2017,23270.0
+Cash Flow,Free Cash Flow,Mar 2018,23263.0
+Cash Flow,Free Cash Flow,Mar 2019,26461.0
+Cash Flow,Free Cash Flow,Mar 2020,29281.0
+Cash Flow,Free Cash Flow,Mar 2021,35663.0
+Cash Flow,Free Cash Flow,Mar 2022,36985.0
+Cash Flow,Free Cash Flow,Mar 2023,38902.0
+Cash Flow,Free Cash Flow,Mar 2024,41688.0
+Cash Flow,Free Cash Flow,Mar 2025,44994.0
+Cash Flow,Free Cash Flow,Mar 2026,48013.0
+Cash Flow,CFO/OP,Mar 2015,110%
+Cash Flow,CFO/OP,Mar 2016,87%
+Cash Flow,CFO/OP,Mar 2017,103%
+Cash Flow,CFO/OP,Mar 2018,100%
+Cash Flow,CFO/OP,Mar 2019,98%
+Cash Flow,CFO/OP,Mar 2020,91%
+Cash Flow,CFO/OP,Mar 2021,103%
+Cash Flow,CFO/OP,Mar 2022,97%
+Cash Flow,CFO/OP,Mar 2023,93%
+Cash Flow,CFO/OP,Mar 2024,88%
+Cash Flow,CFO/OP,Mar 2025,96%
+Cash Flow,CFO/OP,Mar 2026,92%
+Quarterly,Sales,Mar 2023,59162.0
+Quarterly,Sales,Jun 2023,59381.0
+Quarterly,Sales,Sep 2023,59692.0
+Quarterly,Sales,Dec 2023,60583.0
+Quarterly,Sales,Mar 2024,61237.0
+Quarterly,Sales,Jun 2024,62613.0
+Quarterly,Sales,Sep 2024,64259.0
+Quarterly,Sales,Dec 2024,63973.0
+Quarterly,Sales,Mar 2025,64479.0
+Quarterly,Sales,Jun 2025,63437.0
+Quarterly,Sales,Sep 2025,65799.0
+Quarterly,Sales,Dec 2025,67087.0
+Quarterly,Sales,Mar 2026,70698.0
+Quarterly,Expenses,Mar 2023,43388.0
+Quarterly,Expenses,Jun 2023,44383.0
+Quarterly,Expenses,Sep 2023,43946.0
+Quarterly,Expenses,Dec 2023,44195.0
+Quarterly,Expenses,Mar 2024,44073.0
+Quarterly,Expenses,Jun 2024,45951.0
+Quarterly,Expenses,Sep 2024,47528.0
+Quarterly,Expenses,Dec 2024,46939.0
+Quarterly,Expenses,Mar 2025,47499.0
+Quarterly,Expenses,Jun 2025,46562.0
+Quarterly,Expenses,Sep 2025,47821.0
+Quarterly,Expenses,Dec 2025,48818.0
+Quarterly,Expenses,Mar 2026,51422.0
+Quarterly,Operating Profit,Mar 2023,15774.0
+Quarterly,Operating Profit,Jun 2023,14998.0
+Quarterly,Operating Profit,Sep 2023,15746.0
+Quarterly,Operating Profit,Dec 2023,16388.0
+Quarterly,Operating Profit,Mar 2024,17164.0
+Quarterly,Operating Profit,Jun 2024,16662.0
+Quarterly,Operating Profit,Sep 2024,16731.0
+Quarterly,Operating Profit,Dec 2024,17034.0
+Quarterly,Operating Profit,Mar 2025,16980.0
+Quarterly,Operating Profit,Jun 2025,16875.0
+Quarterly,Operating Profit,Sep 2025,17978.0
+Quarterly,Operating Profit,Dec 2025,18269.0
+Quarterly,Operating Profit,Mar 2026,19276.0
+Quarterly,OPM %,Mar 2023,27%
+Quarterly,OPM %,Jun 2023,25%
+Quarterly,OPM %,Sep 2023,26%
+Quarterly,OPM %,Dec 2023,27%
+Quarterly,OPM %,Mar 2024,28%
+Quarterly,OPM %,Jun 2024,27%
+Quarterly,OPM %,Sep 2024,26%
+Quarterly,OPM %,Dec 2024,27%
+Quarterly,OPM %,Mar 2025,26%
+Quarterly,OPM %,Jun 2025,27%
+Quarterly,OPM %,Sep 2025,27%
+Quarterly,OPM %,Dec 2025,27%
+Quarterly,OPM %,Mar 2026,27%
+Quarterly,Other Income,Mar 2023,1175.0
+Quarterly,Other Income,Jun 2023,1397.0
+Quarterly,Other Income,Sep 2023,1006.0
+Quarterly,Other Income,Dec 2023,-96.0
+Quarterly,Other Income,Mar 2024,1157.0
+Quarterly,Other Income,Jun 2024,962.0
+Quarterly,Other Income,Sep 2024,729.0
+Quarterly,Other Income,Dec 2024,1243.0
+Quarterly,Other Income,Mar 2025,1028.0
+Quarterly,Other Income,Jun 2025,1660.0
+Quarterly,Other Income,Sep 2025,-268.0
+Quarterly,Other Income,Dec 2025,-2273.0
+Quarterly,Other Income,Mar 2026,757.0
+Quarterly,Interest,Mar 2023,272.0
+Quarterly,Interest,Jun 2023,163.0
+Quarterly,Interest,Sep 2023,159.0
+Quarterly,Interest,Dec 2023,230.0
+Quarterly,Interest,Mar 2024,226.0
+Quarterly,Interest,Jun 2024,173.0
+Quarterly,Interest,Sep 2024,162.0
+Quarterly,Interest,Dec 2024,234.0
+Quarterly,Interest,Mar 2025,227.0
+Quarterly,Interest,Jun 2025,195.0
+Quarterly,Interest,Sep 2025,229.0
+Quarterly,Interest,Dec 2025,538.0
+Quarterly,Interest,Mar 2026,265.0
+Quarterly,Depreciation,Mar 2023,1286.0
+Quarterly,Depreciation,Jun 2023,1243.0
+Quarterly,Depreciation,Sep 2023,1263.0
+Quarterly,Depreciation,Dec 2023,1233.0
+Quarterly,Depreciation,Mar 2024,1246.0
+Quarterly,Depreciation,Jun 2024,1220.0
+Quarterly,Depreciation,Sep 2024,1266.0
+Quarterly,Depreciation,Dec 2024,1377.0
+Quarterly,Depreciation,Mar 2025,1379.0
+Quarterly,Depreciation,Jun 2025,1361.0
+Quarterly,Depreciation,Sep 2025,1413.0
+Quarterly,Depreciation,Dec 2025,1380.0
+Quarterly,Depreciation,Mar 2026,1406.0
+Quarterly,Profit before tax,Mar 2023,15391.0
+Quarterly,Profit before tax,Jun 2023,14989.0
+Quarterly,Profit before tax,Sep 2023,15330.0
+Quarterly,Profit before tax,Dec 2023,14829.0
+Quarterly,Profit before tax,Mar 2024,16849.0
+Quarterly,Profit before tax,Jun 2024,16231.0
+Quarterly,Profit before tax,Sep 2024,16032.0
+Quarterly,Profit before tax,Dec 2024,16666.0
+Quarterly,Profit before tax,Mar 2025,16402.0
+Quarterly,Profit before tax,Jun 2025,16979.0
+Quarterly,Profit before tax,Sep 2025,16068.0
+Quarterly,Profit before tax,Dec 2025,14078.0
+Quarterly,Profit before tax,Mar 2026,18362.0
+Quarterly,Tax %,Mar 2023,26%
+Quarterly,Tax %,Jun 2023,26%
+Quarterly,Tax %,Sep 2023,26%
+Quarterly,Tax %,Dec 2023,25%
+Quarterly,Tax %,Mar 2024,26%
+Quarterly,Tax %,Jun 2024,25%
+Quarterly,Tax %,Sep 2024,25%
+Quarterly,Tax %,Dec 2024,25%
+Quarterly,Tax %,Mar 2025,25%
+Quarterly,Tax %,Jun 2025,24%
+Quarterly,Tax %,Sep 2025,24%
+Quarterly,Tax %,Dec 2025,24%
+Quarterly,Tax %,Mar 2026,25%
+Quarterly,Net Profit,Mar 2023,11436.0
+Quarterly,Net Profit,Jun 2023,11120.0
+Quarterly,Net Profit,Sep 2023,11380.0
+Quarterly,Net Profit,Dec 2023,11097.0
+Quarterly,Net Profit,Mar 2024,12502.0
+Quarterly,Net Profit,Jun 2024,12105.0
+Quarterly,Net Profit,Sep 2024,11955.0
+Quarterly,Net Profit,Dec 2024,12444.0
+Quarterly,Net Profit,Mar 2025,12293.0
+Quarterly,Net Profit,Jun 2025,12819.0
+Quarterly,Net Profit,Sep 2025,12131.0
+Quarterly,Net Profit,Dec 2025,10720.0
+Quarterly,Net Profit,Mar 2026,13784.0
+Quarterly,EPS in Rs,Mar 2023,31.13
+Quarterly,EPS in Rs,Jun 2023,30.26
+Quarterly,EPS in Rs,Sep 2023,31.0
+Quarterly,EPS in Rs,Dec 2023,30.56
+Quarterly,EPS in Rs,Mar 2024,34.37
+Quarterly,EPS in Rs,Jun 2024,33.28
+Quarterly,EPS in Rs,Sep 2024,32.92
+Quarterly,EPS in Rs,Dec 2024,34.22
+Quarterly,EPS in Rs,Mar 2025,33.79
+Quarterly,EPS in Rs,Jun 2025,35.27
+Quarterly,EPS in Rs,Sep 2025,33.37
+Quarterly,EPS in Rs,Dec 2025,29.45
+Quarterly,EPS in Rs,Mar 2026,37.92
+Quarterly,Raw PDF,Mar 2023,
+Quarterly,Raw PDF,Jun 2023,
+Quarterly,Raw PDF,Sep 2023,
+Quarterly,Raw PDF,Dec 2023,
+Quarterly,Raw PDF,Mar 2024,
+Quarterly,Raw PDF,Jun 2024,
+Quarterly,Raw PDF,Sep 2024,
+Quarterly,Raw PDF,Dec 2024,
+Quarterly,Raw PDF,Mar 2025,
+Quarterly,Raw PDF,Jun 2025,
+Quarterly,Raw PDF,Sep 2025,
+Quarterly,Raw PDF,Dec 2025,
+Quarterly,Raw PDF,Mar 2026,
+Key Ratios,Market Cap,Latest,"₹ 7,57,881 Cr."
+Key Ratios,Current Price,Latest,"₹ 2,095"
+Key Ratios,High / Low,Latest,"₹ 3,490 / 2,055"
+Key Ratios,Stock P/E,Latest,14.5
+Key Ratios,Book Value,Latest,₹ 296
+Key Ratios,Dividend Yield,Latest,3.06 %
+Key Ratios,ROCE,Latest,63.0 %
+Key Ratios,ROE,Latest,51.8 %
+Key Ratios,Face Value,Latest,₹ 1.00

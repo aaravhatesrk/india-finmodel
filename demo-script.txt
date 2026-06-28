@@ -1,0 +1,47 @@
+IndiaFinModel — demo script (~3 minutes)
+=========================================
+
+1. Open the app.
+   "This is IndiaFinModel — search any NSE/BSE listed company and get a
+   financial model in seconds."
+
+2. Use the search box.
+   Type "TCS" — point out the live suggestions dropdown (keyboard
+   navigable with arrow keys + Enter).
+   Select "Tata Consultancy Services Ltd".
+
+3. Show the company overview card.
+   "We pull current ratios — market cap, P/E, ROE, ROCE — straight from
+   public data, cached so repeat lookups are instant."
+
+4. Scroll to the charts.
+   "Profit & Loss, Balance Sheet, Cash Flow, and Quarterly Results are
+   all charted automatically from the same scraped tables."
+
+5. Try a quick ticker button instead (e.g. "Infosys").
+   "For common names we skip the search step entirely."
+
+6. Open the "Generate report" card on the right.
+   Adjust the growth rate / discount rate / terminal growth / projection
+   years fields.
+   "These assumptions flow straight into the DCF Inputs sheet of the
+   generated workbook."
+
+7. Click "Download Excel model (.xlsx)".
+   Open the downloaded file:
+   - Point out the 5 sheets: Overview, Income, Balance, Cash Flow, DCF
+     Inputs.
+   - Show the ₹-formatted currency, bold headers, conditional-formatting
+     color scale on the trend column, and the embedded line chart.
+
+8. Click "Download Power BI package (.zip)".
+   Unzip it:
+   - data.csv — tidy long-format rows (Section, Metric, Period, Value).
+   - placeholder.pbit — explain it's a documented placeholder, not a real
+     Power BI template (those can only come from Power BI Desktop itself).
+   - INSTRUCTIONS.txt — the exact steps to load the CSV in Power BI
+     Desktop and build/export a real .pbit.
+
+9. Wrap up.
+   "Same flow works for any of the ~5,000 companies on screener.in — one
+   Render web service serves both the API and this frontend."
